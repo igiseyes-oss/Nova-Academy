@@ -10,13 +10,7 @@ so they automatically appear on the website's Certificates section
 (replacing the "Certificate coming soon" placeholders):
 
 ```
-assets/certificates/certificate-1.jpg
-assets/certificates/certificate-2.jpg
-assets/certificates/certificate-3.jpg
-assets/certificates/certificate-4.jpg
-assets/certificates/certificate-5.jpg
-assets/certificates/certificate-6.jpg
-```
+
 
 Notes:
 
